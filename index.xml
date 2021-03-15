@@ -6,16 +6,6 @@
     <description>Recent content on Beautiful Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
-    <lastBuildDate>Mon, 15 Mar 2021 11:48:33 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello</title>
-      <link>/posts/hello/</link>
-      <pubDate>Mon, 15 Mar 2021 11:48:33 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>/posts/hello/</guid>
-      <description></description>
-    </item>
-    
+    <webMaster>youremail@domain.com (Some Person)</webMaster><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
