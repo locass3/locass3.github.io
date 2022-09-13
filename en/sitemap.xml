@@ -15,19 +15,6 @@
                 href="https://www.thezu.co.uk/"
                 />
   </url><url>
-    <loc>https://www.thezu.co.uk/categories/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://www.thezu.co.uk/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.thezu.co.uk/categories/"
-                />
-  </url><url>
     <loc>https://www.thezu.co.uk/tags/hugo/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,22 +31,6 @@
                 href="https://www.thezu.co.uk/post/"
                 />
   </url><url>
-    <loc>https://www.thezu.co.uk/series/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://www.thezu.co.uk/pt/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.thezu.co.uk/series/"
-                />
-  </url><url>
-    <loc>https://www.thezu.co.uk/categories/syntax/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.thezu.co.uk/tags/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -72,9 +43,6 @@
                 hreflang="en"
                 href="https://www.thezu.co.uk/tags/"
                 />
-  </url><url>
-    <loc>https://www.thezu.co.uk/series/themes-guide/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.thezu.co.uk/post/bundle/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
@@ -100,9 +68,6 @@
                 hreflang="en"
                 href="https://www.thezu.co.uk/tags/css/"
                 />
-  </url><url>
-    <loc>https://www.thezu.co.uk/tags/featured/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.thezu.co.uk/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -146,9 +111,6 @@
     <loc>https://www.thezu.co.uk/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.thezu.co.uk/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.thezu.co.uk/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -186,8 +148,32 @@
                 href="https://www.thezu.co.uk/about/"
                 />
   </url><url>
+    <loc>https://www.thezu.co.uk/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.thezu.co.uk/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.thezu.co.uk/categories/"
+                />
+  </url><url>
     <loc>https://www.thezu.co.uk/tags/index/</loc>
   </url><url>
     <loc>https://www.thezu.co.uk/search/</loc>
+  </url><url>
+    <loc>https://www.thezu.co.uk/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.thezu.co.uk/pt/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.thezu.co.uk/series/"
+                />
   </url>
 </urlset>
